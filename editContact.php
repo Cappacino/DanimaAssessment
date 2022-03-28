@@ -47,7 +47,7 @@ include "database.php";
 
             <div class=" form-group">
                 <label for="inputName">Name</label>
-                <input type="text" value="<?= $row['contactName']; ?>" class="form-control" id="inputName" name="edit_contact_name" placeholder="Contact Name">
+                <input type="text" value="<?= $row['contactName']; ?>" class="form-control" id="inputName" name="edit_contact_name" placeholder="Contact Name" required>
             </div>
 
             <div class="form-group">

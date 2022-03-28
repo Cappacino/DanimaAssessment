@@ -22,7 +22,7 @@
         <form action="addContactPost.php" method="post">
             <div class="form-group">
                 <label for="inputName">Name</label>
-                <input type="text" class="form-control" name="contact_name" id="contactName" placeholder="Contact Name">
+                <input type="text" class="form-control" name="contact_name" id="contactName" placeholder="Contact Name" required>
             </div>
 
             <div class="form-group">
