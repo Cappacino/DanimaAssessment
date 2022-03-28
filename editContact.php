@@ -5,7 +5,7 @@ include "database.php";
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
-<title>Contacts - Add Contact</title>
+<title>Contacts - Edit Contact</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="styles/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
