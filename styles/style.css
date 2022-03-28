@@ -1,20 +1,12 @@
-.container, h1 {
-    font-family: 'IBM Plex Sans Arabic', sans-serif;
-}
 
 #createBtn, #searchBtn, #searchInput {
     margin-bottom: 5%;
 }
 
 #searchInput {
-    width: 355px;
-    margin-right: 3%;
+    width: 320px;
 }
 
 #searchBtn {
-    width: 75px;
-}
-
-#editBtn {
     width: 75px;
 }
